@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class DemocyberApplication {
-    private static final String GITHUB_TOKEN = "ghp_123456789abcdef123456789abcdef1234"
+    //private static final String GITHUB_TOKEN = "ghp_123456789abcdef123456789abcdef1234"
 
     public static void main(String[] args) {
         SpringApplication.run(DemocyberApplication.class, args);
